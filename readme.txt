@@ -1,2 +1,2 @@
 sample repo for XE GIT LAB
-ciao a tutti
+ciao a tuttifrom master
